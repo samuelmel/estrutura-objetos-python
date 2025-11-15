@@ -4,7 +4,8 @@
 Este repositório contém todas as implementações solicitadas no trabalho da disciplina de Programação Orientada a Objetos, incluindo código em Python, testes, justificativas e a versão em notebook (.ipynb).
 Os exercícios abordam desde validação robusta de classes até concorrência com threads.
 
-📂 Conteúdo do trabalho
+# 📂 Conteúdo do trabalho
+
 ✔️ 1. Classe Produto com validação
 
 Validação rígida do código no formato XXX-YYYY.
@@ -85,7 +86,7 @@ Igualdade aproximada
 
 Ângulo entre um vetor e ele mesmo igual a 0°
 
-🧪 Testes incluídos
+# 🧪 Testes incluídos
 
 O notebook contém:
 
@@ -99,7 +100,7 @@ Execução do benchmark de herança vs composição.
 
 Teste de consistência estrutural nas transferências paralelas.
 
-🛠 Tecnologias e Ferramentas
+# 🛠 Tecnologias e Ferramentas
 
 Python 3
 
